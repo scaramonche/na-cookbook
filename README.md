@@ -1,2 +1,2 @@
 # na-cookbook
-Personal cookbook for N &amp; A
+A collection of country-sepcific recipes with cross-country influences :) 
